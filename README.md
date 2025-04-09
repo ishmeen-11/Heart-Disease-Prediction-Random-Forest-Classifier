@@ -78,21 +78,6 @@ This project tackles this problem using Random Forest — leveraging its ability
 
 > ⚠️ Model might be **overfitting** — training and testing accuracy are both perfect.
 
-<details>
-<summary>🟩 Confusion Matrix</summary>
-
-![Confusion Matrix](images/confusion_matrix.png)
-
-</details>
-
-<details>
-<summary>📈 ROC Curve</summary>
-
-![ROC Curve](images/roc_curve.png)
-
-</details>
-
----
 
 ## 🧰 Tech Stack
 
