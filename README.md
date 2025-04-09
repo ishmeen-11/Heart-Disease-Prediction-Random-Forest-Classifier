@@ -78,6 +78,7 @@ This project tackles this problem using Random Forest — leveraging its ability
 
 > ⚠️ Model might be **overfitting** — training and testing accuracy are both perfect.
 
+---
 
 ## 🧰 Tech Stack
 
