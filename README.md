@@ -1,6 +1,5 @@
 # 🌳 Day 4: Random Forest Classifier - Heart Disease Prediction
-
-> 🗓️ **Date**: April 9, 2025  
+ 
 > 🚀 **Challenge**: 30 Days of Machine Learning Projects  
 > ⏰ **Note**: I'm a bit late today — returning after a long break since **Feb 20** — but excited to continue the journey! 🙌
 
